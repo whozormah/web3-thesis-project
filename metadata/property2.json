@@ -1,0 +1,33 @@
+{
+  "name": "Ikoyi Mansion",
+  "address": "Ikoyi, Lagos, Nigeria",
+  "description": "A luxurious 7-bedroom mansion located in the prestigious Ikoyi neighborhood, Lagos. Comes with a fully equipped gym, cinema room, and a large garden.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXkN5HgQe8YVotnUhGdA4WWPdXUd7upX9jm1bhci4891b",
+  "id": "2",
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": 200
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Mansion"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 7
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 6
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 700
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2020
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Banana Island Duplex",
+  "address": "Banana Island, Lagos, Nigeria",
+  "description": "A 4-bedroom duplex in the exclusive Banana Island area, Lagos. Features include a waterfront view, 24/7 security, and modern furnishings.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQwbMmutzEwf51SiXbFWAgarnoLDNJGH3YzBGitE48oQX",
+  "id": "3",
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": 120
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Duplex"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 4
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 350
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2019
+    }
+  ]
+}

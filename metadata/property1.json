@@ -1,0 +1,33 @@
+{
+  "name": "Lekki Villa",
+  "address": "Lekki Phase 1, Lagos, Nigeria",
+  "description": "A beautiful 5-bedroom villa located in the serene environment of Lekki Phase 1, Lagos. This property features a spacious living room, modern kitchen, and a private swimming pool.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmT74AgKmCEyDwkGBbpGczXocBcusr5CJKC2y1BymNT2B1",
+  "id": "1",
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": 80
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Villa"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 5
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 4
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 450
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2018
+    }
+  ]
+}

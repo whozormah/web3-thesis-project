@@ -1,0 +1,33 @@
+{
+  "name": "Abuja Penthouse",
+  "address": "Maitama, Abuja, Nigeria",
+  "description": "A top-floor 3-bedroom penthouse in the heart of Maitama, Abuja. Enjoy breathtaking city views, a private terrace, and state-of-the-art amenities.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPa3zwxnkFNzUNQxVqLtckbZk6BMMaZXN5GGwhhw2xRJW",
+  "id": "4",
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": 65
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Penthouse"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 200
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2017
+    }
+  ]
+}

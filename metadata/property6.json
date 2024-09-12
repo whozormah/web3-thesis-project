@@ -1,0 +1,33 @@
+{
+  "name": "Ikeja GRA Bungalow",
+  "address": "Ikeja GRA, Lagos, Nigeria",
+  "description": "A charming 3-bedroom bungalow in the highly sought-after Ikeja GRA. Features a spacious compound, modern interiors, and close proximity to key amenities.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeuRjHE8oBRkVuU5ruebouipJ5aT4AV9Pf6WbX1JmeMat",
+  "id": "6",
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": 55
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Bungalow"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 2
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 250
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2015
+    }
+  ]
+}

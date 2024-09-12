@@ -1,0 +1,33 @@
+{
+  "name": "Victoria Island Apartment",
+  "address": "Victoria Island, Lagos, Nigeria",
+  "description": "A modern 2-bedroom apartment in Victoria Island, Lagos. Close to major business districts, featuring a rooftop pool, gym, and ample parking.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWZ81N9UvFCW9xn7nAP4Hx8H2GJvk241vvrCYZWNrj3kM",
+  "id": "5",
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": 45
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Apartment"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 2
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 2
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 120
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2016
+    }
+  ]
+}
